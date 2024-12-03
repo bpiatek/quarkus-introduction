@@ -1,0 +1,1 @@
+Create table fruit(id int, name varchar(20));
